@@ -1,7 +1,7 @@
 {
-  "name": "tasks-server",
+  "name": "node-base-ts",
   "version": "1.0.0",
-  "description": "Tasks API with Typescript",
+  "description": "Node base Express API with Typescript",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve",
